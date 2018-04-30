@@ -1,5 +1,5 @@
 
 # Build results
 
-[Bb]in/
-[Bb]on
+[Bb]in/*
+![Bb]in/Release/*

@@ -1,5 +1,6 @@
-$ cat .gitignore
+
 # Build results
 
-[Bb]in/*
+*/[Bb]in/*
 ![Bb]in/Release/*
+
